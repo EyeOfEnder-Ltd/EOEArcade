@@ -1,0 +1,5 @@
+name: EOEArcade
+description: Arcade game API and plugin manager
+main: com.eyeofender.arcade.plugin.EOEArcade
+version: 0.0.1
+author: LinearLogic
